@@ -41,7 +41,7 @@ models, we build our model using this dataset first to gauge performance.
 
 CIFAR-10 model: 82.25%
 
-SeaturtleIDHeads Random Split model: 62.15%
+SeaturtleIDHeads Random Split model: 62.01%
 
 SeaturtleIDHeads Time-cutoff Split model: 33.89%
 
