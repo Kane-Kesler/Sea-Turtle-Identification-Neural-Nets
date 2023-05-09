@@ -26,7 +26,7 @@ Schofield 2023)](https://arxiv.org/abs/2211.10307).
 # Methodology
 <div id="methodology"></div>
 We will first train our model on the well-established CIFAR-10 dataset and measure its performance. We will call this model the CIFAR-10 CNN model.
-After, we use the same network architecture to train two models using the SeaturtleIDHeads dataset, the first model splits the data randomly in the training and testing datasets (Random-Split model) and the other splits the data after a certain date-time (Time-cutoff Split model). We do this so we can compare how well our Time-cutoff Split model performs when trying to identify future instances of any given sea turtle as opposed to the 
+After, we use the same network architecture to train two models using the SeaturtleIDHeads dataset, the first model splits the data randomly in the training and testing datasets (Random-Split model) and the other splits the data after a certain date-time (Time-cutoff Split model). We do this so we can compare how well our Time-cutoff Split model performs when trying to identify future instances of any given sea turtle compared to the Random-Split model.
 
 # Data
 ### CIFAR-10
