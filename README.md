@@ -49,8 +49,6 @@ conda install pytorch pandas numpy seaborn
 
 # Acknowledgements
 <div id="acknowledgements"></div> 
-Credit goes to:
-
 [Patrick Loeber](https://github.com/patrickloeber/pytorchTutorial/blob/master/14_cnn.py) for providing the general structure of the model class as well as the training and testing loops.
 
 [GeekAlexis](https://github.com/GeekAlexis/cifar10-cnn/blob/master/CIFAR_10_CNN.ipynb), whose repo contained code on how to plot the loss curves and how to print the average training and validation loss each epoch. Implementations such as learning rate scheduler, bacth normmalisation and dropout were all inspired by this repo.
