@@ -73,6 +73,6 @@ conda install pytorch pandas numpy seaborn
 # License
 <div id="license"></div>
 
-Apache-2.0 license 
+[Apache-2.0 license](https://github.com/Kane-Kesler/SeaturlteIDHeads-CNN-Model/blob/main/LICENSE) 
 
 
