@@ -25,7 +25,7 @@ Schofield 2023)](https://arxiv.org/abs/2211.10307).
 # Methodology
 <div id="methodology"></div>
 We will first train our model on the well-established CIFAR-10 dataset and measure its performance. We will call this model the CIFAR-10 CNN model.
-After, we use the same network architecture to train two models using the SeaturtleIDHeads dataset, the first model splits the data randomly in the training and testing datasets (Random-Split model) and the other splits the data after a certain date-time (Time-cutoff Split model). We do this so we can compare how well our Time-cutoff Split model performs when trying to identify future instances of any given sea turtle as oppose to the 
+After, we use the same network architecture to train two models using the SeaturtleIDHeads dataset, the first model splits the data randomly in the training and testing datasets (Random-Split model) and the other splits the data after a certain date-time (Time-cutoff Split model). We do this so we can compare how well our Time-cutoff Split model performs when trying to identify future instances of any given sea turtle as opposed to the 
 
 # Data
 ### CIFAR-10
@@ -48,7 +48,12 @@ conda install pytorch pandas numpy seaborn
 ```
 
 # Acknowledgements
-<div id="acknowledgements"></div>
+<div id="acknowledgements"></div> 
+Thanks to:
+[Patrick Loeber](https://github.com/patrickloeber/pytorchTutorial/blob/master/14_cnn.py) for providing the general structure of the model class as well as the training and testing loops.
+[GeekAlexis](https://github.com/GeekAlexis/cifar10-cnn/blob/master/CIFAR_10_CNN.ipynb), whose repo contained code on how to plot the loss curves and how to print the average training and validation loss each epoch. Implementations such as learning rate scheduler, bacth normmalisation and dropout were all inspired by this repo.
+[Konrad Szafer]([https://www.kaggle.com/code/ltranger/paddydiseaseclassificationv3/edit](https://www.kaggle.com/code/konradszafer/paddy-disease-pytorch-acc-98-0)) for providing the initial code needed to create a custom dataset.
+[Sahar Millis](https://stackoverflow.com/questions/53290306/confusion-matrix-and-test-accuracy-for-pytorch-transfer-learning-tutorial) for providing code that plots a confusion matrix.
 
 # License
 <div id="license"></div>
