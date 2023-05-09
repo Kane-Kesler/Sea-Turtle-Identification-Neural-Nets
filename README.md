@@ -1,4 +1,4 @@
-# SeaturlteIDHeads-CNN-Model
+# Sea-Turtle-Identification-Neural-Nets
 
 # Table of Contents  
 - [Research Goals](#research-goals)
