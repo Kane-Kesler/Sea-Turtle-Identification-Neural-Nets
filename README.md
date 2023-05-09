@@ -10,5 +10,4 @@ Schofield 2023)](https://arxiv.org/abs/2211.10307). This repo contains the CNN m
 ![sample images of sea turtle heads](https://github.com/Kane-Kesler/SeaturlteIDHeads-CNN-Model/assets/110169438/d0a4133d-f63a-4be5-acee-3982a461746f)
 
 Note: Each row represents photos of a unique turtle.
-
-We first compare its accuracy rate with the same model but trained on the well-established CIFAR-10 dataset. 
+ 
