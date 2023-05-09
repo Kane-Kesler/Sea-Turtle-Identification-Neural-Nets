@@ -1,4 +1,4 @@
-# Sea-Turtle-Identification-Neural-Nets
+# Sea Turtle Identification Neural-Nets
 
 # Table of Contents  
 - [Research Goals](#research-goals)
