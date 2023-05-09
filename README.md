@@ -4,7 +4,6 @@
 - [Research Goals](#research-goals)
 - [Methodology](#methodology)
 - [Data](#data)
-- [Usage](#usage)
 - [Installation](#installation)
 - [Acknowledgements](#acknowledgements)
 - [License](#license)
@@ -43,13 +42,16 @@ the computational burden.
 
 # Installation
 <div id="installation"></div>
-Run command '''pip3 install torch torchvision torchaudio in termianl'''
 
-# Usage
-<div id="usage"></div>
+```
+conda install pytorch pandas numpy seaborn
+```
 
 # Acknowledgements
 <div id="acknowledgements"></div>
 
 # License
 <div id="license"></div>
+
+
+
