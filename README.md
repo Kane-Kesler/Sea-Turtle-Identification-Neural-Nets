@@ -49,7 +49,7 @@ conda install pytorch pandas numpy seaborn
 
 # Acknowledgements
 <div id="acknowledgements"></div> 
-Thanks to:
+Credit goes to:
 
 [Patrick Loeber](https://github.com/patrickloeber/pytorchTutorial/blob/master/14_cnn.py) for providing the general structure of the model class as well as the training and testing loops.
 
