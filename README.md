@@ -55,7 +55,7 @@ Thanks to:
 
 [GeekAlexis](https://github.com/GeekAlexis/cifar10-cnn/blob/master/CIFAR_10_CNN.ipynb), whose repo contained code on how to plot the loss curves and how to print the average training and validation loss each epoch. Implementations such as learning rate scheduler, bacth normmalisation and dropout were all inspired by this repo.
 
-[Konrad Szafer]([https://www.kaggle.com/code/ltranger/paddydiseaseclassificationv3/edit](https://www.kaggle.com/code/konradszafer/paddy-disease-pytorch-acc-98-0)) for providing the initial code needed to create a custom dataset.
+[Konrad Szafer](https://www.kaggle.com/code/konradszafer/paddy-disease-pytorch-acc-98-0) for providing the initial code needed to create a custom dataset.
 
 [Sahar Millis](https://stackoverflow.com/questions/53290306/confusion-matrix-and-test-accuracy-for-pytorch-transfer-learning-tutorial) for providing code that plots a confusion matrix.
 
