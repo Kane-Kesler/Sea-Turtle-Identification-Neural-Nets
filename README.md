@@ -38,11 +38,14 @@ models, we build our model using this dataset first to gauge performance.
 
 # Results
 <div id="results"></div>
+
 CIFAR-10 model: 82.25%
+
 SeaturtleIDHeads Random Split model: 62.15%
+
 SeaturtleIDHeads Time-cutoff Split model: 33.89%
 
-Further analysis of the models are described in the dissertation.
+Further analysis of the models are described in the [dissertation](https://github.com/Kane-Kesler/SeaturlteIDHeads-CNN-Model/blob/main/Artificial%20Neural%20Networks%20for%20Sea%20Turtle%20Identification%20-%20Kane%20Kesler.pdf#16).
 
 ### SeaturleIDHeads
 From the dataset of size ~8,000, we take a subset of data of size 10 corresponding to the turtles
