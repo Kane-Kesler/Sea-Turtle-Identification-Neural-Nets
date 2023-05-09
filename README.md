@@ -43,7 +43,7 @@ the computational burden.
 
 # Installation
 <div id="installation"></div>
-Run command pip3 install torch torchvision torchaudio in termianl
+Run command '''pip3 install torch torchvision torchaudio in termianl'''
 
 # Usage
 <div id="usage"></div>
