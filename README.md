@@ -1,6 +1,7 @@
 # SeaturlteIDHeads-CNN-Model
 
-This repo contains code and observations taken based on my dissertation
+This repo contains code and observations taken based on my dissertation.
+
 Investigating the effects of tourism and social media on wildlife animals
 can be done by identifying the animals on social media platforms and
 tracking the frequency at which they are posted [(Papafitsoros, Adam, and
