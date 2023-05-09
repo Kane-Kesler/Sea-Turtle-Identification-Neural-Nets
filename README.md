@@ -4,6 +4,7 @@
 - [Research Goals](#research-goals)
 - [Methodology](#methodology)
 - [Data](#data)
+- [Results](#results)
 - [Installation](#installation)
 - [Acknowledgements](#acknowledgements)
 - [License](#license)
@@ -35,6 +36,14 @@ can be classified into 10 categories: dog, cat, deer, frog, horse, bird, plane, 
 truck and ship. Since this is a standard dataset used to practice different CNN
 models, we build our model using this dataset first to gauge performance.
 
+# Results
+<div id="results"></div>
+CIFAR-10 model: 82.25%
+SeaturtleIDHeads Random Split model: 62.15%
+SeaturtleIDHeads Time-cutoff Split model: 33.89%
+
+Further analysis of the models are described in the dissertation.
+
 ### SeaturleIDHeads
 From the dataset of size ~8,000, we take a subset of data of size 10 corresponding to the turtles
 with the most images. We also reduce the size of the images to 32×32 to reduce
@@ -60,6 +69,6 @@ conda install pytorch pandas numpy seaborn
 
 # License
 <div id="license"></div>
-
+Apache-2.0 license 
 
 
