@@ -6,7 +6,7 @@
 - [Methodology](#methodology)
 - [Data](#data)
 - [Results](#results)
-- [Installation](#installation)
+- [Instructions](#instructions)
 - [Acknowledgements](#acknowledgements)
 - [License](#license)
 
@@ -53,12 +53,13 @@ From the dataset of size ~8,000, we take a subset of data of size 10 correspondi
 with the most images. We also reduce the size of the images to 32×32 to reduce
 the computational burden.
 
-# Installation
-<div id="installation"></div>
+# Instructions
+<div id="instructions"></div>
 
 ```
 conda install pytorch pandas numpy seaborn
 ```
+To get the sea turtle dataframe, go on the [SeaturtleIDHeads dataset](https://www.kaggle.com/code/wildlifedatasets/seaturtleidheads-overview) page and click 'Edit my Copy' to copy the page.
 
 # Acknowledgements
 <div id="acknowledgements"></div> 
