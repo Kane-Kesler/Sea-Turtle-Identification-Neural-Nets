@@ -37,6 +37,11 @@ can be classified into 10 categories: dog, cat, deer, frog, horse, bird, plane, 
 truck and ship. Since this is a standard dataset used to practice different CNN
 models, we build our model using this dataset first to gauge performance.
 
+### SeaturleIDHeads
+From the dataset of size ~8,000, we take a subset of data of size 10 corresponding to the turtles
+with the most images. We also reduce the size of the images to 32×32 to reduce
+the computational burden.
+
 # Results
 <div id="results"></div>
 
@@ -47,11 +52,6 @@ SeaturtleIDHeads Random Split model: 62.01%
 SeaturtleIDHeads Time-cutoff Split model: 37.85%
 
 Further analysis of the models are described in the [research paper](https://github.com/Kane-Kesler/SeaturlteIDHeads-CNN-Model/blob/main/Artificial%20Neural%20Networks%20for%20Sea%20Turtle%20Identification%20-%20Kane%20Kesler.pdf).
-
-### SeaturleIDHeads
-From the dataset of size ~8,000, we take a subset of data of size 10 corresponding to the turtles
-with the most images. We also reduce the size of the images to 32×32 to reduce
-the computational burden.
 
 # Instructions
 <div id="instructions"></div>
